@@ -1,3 +1,5 @@
 /data/
-/.*/
+.*
 /models/
+/ru_transformers/
+!/.gitignore
