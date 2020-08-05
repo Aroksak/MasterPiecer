@@ -1,0 +1,10 @@
+youtokentome~=1.0.6
+regex~=2020.5.14
+transformers~=2.10.0
+pandas~=1.0.3
+torpy~=1.0.10
+requests~=2.23.0
+tqdm~=4.46.0
+beautifulsoup4~=4.9.1
+numpy~=1.18.4
+pytorch~=1.5.0
